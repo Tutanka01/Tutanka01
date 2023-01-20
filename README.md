@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://www.codewars.com/users/Tutanka01/badges/large" width="100%" >
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
