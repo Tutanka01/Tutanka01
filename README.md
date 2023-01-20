@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salut les reufs 😄
 
 <!--
 **Tutanka01/Tutanka01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.codewars.com/users/Tutanka01/badges/large" width="100%" >
+<img src="https://www.codewars.com/users/Tutanka01/badges/large" width="50%" >
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
