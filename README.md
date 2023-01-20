@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on anything that interest me
 - 🌱 I’m currently learning networking and cybersecurity
 
-Languages and tools :
+Ce que je sais faire :
+
 <br>
 
 <div style=display: inline;>
