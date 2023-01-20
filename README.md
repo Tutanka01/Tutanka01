@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutanka01&theme=dark" width="48%" >
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tutanka01&layout=compact)
 <img src="https://www.codewars.com/users/Tutanka01/badges/large" width="48%" >
