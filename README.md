@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tutanka01&theme=dark" width="48%" >
 <img src="https://www.codewars.com/users/Tutanka01/badges/large" width="48%" >
