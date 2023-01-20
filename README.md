@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
 <img src="https://www.codewars.com/users/Tutanka01/badges/large" width="48%" >
+
+<a href="mailto:meaeakhal@gmail.com">![meaeakhal@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
