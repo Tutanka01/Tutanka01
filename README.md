@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
-<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tutanka01&theme=juicyfresh&no-bg=true" />
