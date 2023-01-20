@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning networking and cybersecurity
 
 Languages and tools :
+<br>
+
 <div style=display: inline;>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="5">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="5%">
@@ -19,6 +21,9 @@ Languages and tools :
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="5%">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="5%">
 </div>
+
+<br>
+<br>
 
 <img src="https://www.codewars.com/users/Tutanka01/badges/large" width="50%" >
 
