@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tutanka01&layout=compact)
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+
 <img src="https://www.codewars.com/users/Tutanka01/badges/large" width="48%" >
