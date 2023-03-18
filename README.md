@@ -31,3 +31,9 @@ Ce que je sais faire :
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tutanka01&theme=juicyfresh&no-bg=true" />
+
+## La commande du siecle :
+```bash
+sudo apt-get download $(apt-cache depends --recurse --no-recommends --no-suggests --no-conflicts --no-breaks --no-replaces --no-enhances <package> | grep "^\w" | sort -u)
+```
+
