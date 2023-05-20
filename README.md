@@ -27,8 +27,6 @@ Ce que je sais faire :
 <br>
 <br>
 
-<img src="https://www.codewars.com/users/Tutanka01/badges/large" width="50%" >
-
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tutanka01&theme=juicyfresh&no-bg=true" />
