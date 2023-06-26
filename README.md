@@ -1,13 +1,4 @@
-### Salut les reufs 😄
-
-<!--
-**Tutanka01/Tutanka01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-- 🔭 I’m currently working on a lot of things
+- 🔭 I’m currently working on a website to read quran and hadith (side-project)
 - 🌱 I’m currently studying networking and cybersecurity
 
 Ce que je sais faire :
