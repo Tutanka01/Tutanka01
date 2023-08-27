@@ -19,8 +19,6 @@ Ce que je sais faire :
 <br>
 <br>
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-
 ## La commande du siecle :
 ```bash
 sudo apt-get download $(apt-cache depends --recurse --no-recommends --no-suggests --no-conflicts --no-breaks --no-replaces --no-enhances <package> | grep "^\w" | sort -u)
