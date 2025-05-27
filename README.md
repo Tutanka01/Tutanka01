@@ -73,9 +73,3 @@ Projet d’apprentissage interactif Linux & cybersécurité pour débutants maro
 ## 💡 Fun fact
 
 > “Je ne fais pas que déployer des infrastructures : je les pense, je les sécurise et je les enseigne.”
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tutanka01&label=Profil+views" alt="profile views" />
-</p>
