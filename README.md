@@ -1,75 +1,72 @@
-<h1 align="center">Salut, moi c’est Mohamad 👋</h1>
+<h1 align="center">Mohamad El Akhal</h1>
+<p align="center">
+  Master SIA (Systèmes d'Information Avancés) · Ingénieur Cloud & Systèmes en alternance<br>
+  Infrastructure · Cloud · Cybersécurité · IA agentique
+</p>
 
 <p align="center">
-  🚀 Étudiant en Réseaux & Télécoms • Alternant Admin Systèmes & Réseaux • Passionné d'infra et cloud sécurisé<br>
-  🇫🇷 Basé en France
+  <a href="https://makhal.fr">makhal.fr</a> · 
+  <a href="https://www.linkedin.com/in/mohamad-el-akhal-8b8319221/">LinkedIn</a> · 
+  <a href="https://www.youtube.com/@makhalX">YouTube</a>
 </p>
 
 ---
 
-## 👨‍💻 À propos de moi
+### À propos
 
-Je m'appelle **Mohamad El Akhal**  
-Je suis étudiant en BUT Réseaux et Télécoms, alternant en **administration systèmes & réseaux**, et passionné par :
+Étudiant en Master SIA, alternant en tant qu'ingénieur Cloud & Systèmes. Je travaille sur des sujets d'infrastructure moderne (on-prem & cloud), de cybersécurité, de DevOps et d'IA agentique — avec une orientation forte vers la pédagogie technique et l'open source.
 
-- 🛠️ **Infrastructure moderne** (on-prem & cloud)
-- ☁️ **Kubernetes, Docker, Proxmox**
-- 🔐 **Cybersécurité offensive et défensive**
-- 🧠 **Automatisation, DevOps et pédagogie technique**
-- 🧪 **Projets R&D & open source à fort impact éducatif**
+Je m'intéresse particulièrement à l'IA en local : inférence on-device, architectures agentiques avancées (orchestration multi-agents, validation adversariale), small language models, et plus largement tout ce qui touche à rendre l'IA souveraine, portable et utilisable sans dépendance cloud.
 
 ---
 
-## 🔭 Projets en cours
+### Projets
 
-🧰 **FablabCloud**  
-Une plateforme éducative basée sur Kubernetes pour déployer des environnements pédagogiques (Jupyter, VS Code, PostgreSQL...) à la demande.  
-> Backend : FastAPI • Frontend : Next.js • Orchestration : K3s + GitOps
+**[LabOnDemand](https://github.com/Tutanka01/LabOnDemand)** — Plateforme open-source de déploiement de laboratoires virtuels sur Kubernetes (Jupyter, VS Code, WordPress, LAMP…) sans connaissances K8s requises.
+> FastAPI · K3s · Redis · MariaDB · RBAC · SSO/OIDC · Terminal web
 
-📡 **CyberAtlas**  
-Projet d’apprentissage interactif Linux & cybersécurité pour débutants marocains, avec conteneurs sécurisés et scénarios réalistes.
+**CyberAtlas.ma** — Apprentissage interactif Linux & cybersécurité pour débutants marocains, avec conteneurs sécurisés et scénarios réalistes.
 
-***...***
+**Lechemin.tech** — Roadmaps interactifs et adaptatifs en français sur les métiers DevOps/Cloud, avec génération automatique de parcours personnalisés.
+
+**Pomo.ninja** — Plateforme Pomodoro avec suivi de l'historique d'apprentissage.
+
+**Itqani** — Traduction en temps réel Darija marocaine → Français.
 
 ---
 
-## 🧠 Skills principales
+### Compétences
 
-| Domaine            | Compétences |
-|--------------------|-------------|
-| **Systèmes**       | Linux (Debian/Ubuntu), Windows Server, Proxmox, Ceph |
+| Domaine | |
+|---|---|
+| **Systèmes** | Linux (Debian/Ubuntu), Windows Server, Proxmox, Ceph |
 | **Infrastructure** | DNS, Mail (Postfix + DKIM), HAProxy, VLAN, Firewall Stormshield |
-| **Cloud & DevOps** | Kubernetes (k3s, à la main), Docker, GitLab CI/CD, Terraform |
-| **Cybersécurité**  | SIEM (Wazuh + Graylog), sandbox evasion, EDR bypass, OSINT |
-| **Langages**       | Bash, Python, Markdown, YAML, HTML/CSS |
-| **Soft skills**    | 🔍 rigueur • 🤝 partage • 📚 pédagogie • 🔄 remise en question |
+| **Cloud & DevOps** | Kubernetes (k3s, kubeadm), Docker, GitLab CI/CD, Terraform |
+| **Cybersécurité** | SIEM (Wazuh + Graylog), sandbox evasion, EDR bypass, OSINT |
+| **IA** | Systèmes multi-agents, inférence locale, small LMs, architectures agentiques, RAG, orchestration hiérarchique |
+| **Langages** | Python, Bash, SQL, YAML, HTML/CSS, Go (en apprentissage) |
 
 ---
 
-## 📢 Conférences & Talks
+### Conférences
 
-🎙️ *Docker de A à Z* — +100 spectateurs live, talk technique et pratique sur Docker & Docker Compose.  
-🎙️ *À venir* — Talk DevOps & CI/CD avec démo GitLab pipelines + containerisation + déploiement !
-
----
-
-## ✍️ Articles & Vidéos
-
-📚 [Sandbox Evasion : Théorie, techniques et pratique](https://www.linkedin.com/posts/tutanka01_sandbox-evasion-th%C3%A9orie-techniques-et-pratique-activity-abcdef123456)  
-🎥 [Créer un template Ubuntu avec Cloud-Init sur Proxmox](https://www.youtube.com/watch?v=abcdefghij)  
-🧠 Mon Blog : [makhal.fr](https://makhal.fr)  
+- **What is Zero Trust?** — ENSA de Fès (présentiel)
+- **Workshop — Introduction to Kubernetes** — ENSA de Fès (présentiel)
+- **Docker de A à Z** — +100 spectateurs en live
+- **What is Cloud Computing?** — +100 spectateurs en live
 
 ---
 
-## 🌐 Retrouve-moi ici
+### Articles
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamad-el-akhal-8b8319221/)
-- 🌍 [Blog Technique](https://makhal.fr)
-- 🧠 [YouTube](https://www.youtube.com/@makhalX)
-- 🧪 [CyberAtlas](https://cyberatlas.dev) *(bientôt en ligne)*
+- [MicroVM — À la découverte](https://makhal.fr/posts/sysadmin/microvm/microvm-1/)
+- [AWS Lambda open source avec Knative](https://makhal.fr/posts/k8s/knative/knative/)
+- [Sandbox Evasion : Théorie, techniques et pratique](https://www.linkedin.com/in/mohamad-el-akhal-8b8319221/) *(LinkedIn)*
+
+Plus d'articles sur **[makhal.fr](https://makhal.fr)**.
 
 ---
 
-## 💡 Fun fact
+### Contact
 
-> “Je ne fais pas que déployer des infrastructures : je les pense, je les sécurise et je les enseigne.”
+[LinkedIn](https://www.linkedin.com/in/mohamad-el-akhal-8b8319221/) · [Blog](https://makhal.fr) · [YouTube](https://www.youtube.com/@makhalX)
