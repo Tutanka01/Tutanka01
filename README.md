@@ -23,15 +23,20 @@ Je m'intéresse particulièrement à l'IA en local : inférence on-device, archi
 ### Projets
 
 **[LabOnDemand](https://github.com/Tutanka01/LabOnDemand)** — Plateforme open-source de déploiement de laboratoires virtuels sur Kubernetes (Jupyter, VS Code, WordPress, LAMP…) sans connaissances K8s requises.
-> FastAPI · K3s · Redis · MariaDB · RBAC · SSO/OIDC · Terminal web
 
-**CyberAtlas.ma** — Apprentissage interactif Linux & cybersécurité pour débutants marocains, avec conteneurs sécurisés et scénarios réalistes.
+**[CyberAtlas.ma](https://cyberatlas.ma/)** — Apprentissage interactif Linux & cybersécurité pour débutants marocains, avec conteneurs sécurisés et scénarios réalistes.
 
-**Lechemin.tech** — Roadmaps interactifs et adaptatifs en français sur les métiers DevOps/Cloud, avec génération automatique de parcours personnalisés.
+**[Lechemin.tech](https://lechemin.tech/)** — Roadmaps interactifs et adaptatifs en français sur les métiers DevOps/Cloud, avec génération automatique de parcours personnalisés.
 
-**Pomo.ninja** — Plateforme Pomodoro avec suivi de l'historique d'apprentissage.
+**[Pomo.ninja](https://pomo.ninja/)** — Plateforme Pomodoro avec suivi de l'historique d'apprentissage.
 
-**Itqani** — Traduction en temps réel Darija marocaine → Français.
+**[Itqani](https://github.com/Tutanka01/ITQANI)** — Traduction en temps réel Darija marocaine → Français.
+
+**[AgenticBlog](https://github.com/Tutanka01/AgenticBlog)** - A multi-agent pipeline that reads RSS feeds, picks the most relevant article, drafts a post, debates it internally, and exports three publish-ready formats — in a single command
+
+**[MakhalReader](https://github.com/Tutanka01/makhalReader)** - An RSS reader that thinks before you do. Built for engineers who have more to read than time to read it.
+
+**[NOEMIS.io](https://noemis.io/)** - Evidence-First AI Workspace — Analysez vos documents PDF avec une IA qui cite ses sources.
 
 ---
 
@@ -62,6 +67,7 @@ Je m'intéresse particulièrement à l'IA en local : inférence on-device, archi
 - [MicroVM — À la découverte](https://makhal.fr/posts/sysadmin/microvm/microvm-1/)
 - [AWS Lambda open source avec Knative](https://makhal.fr/posts/k8s/knative/knative/)
 - [Sandbox Evasion : Théorie, techniques et pratique](https://www.linkedin.com/in/mohamad-el-akhal-8b8319221/) *(LinkedIn)*
+- ...
 
 Plus d'articles sur **[makhal.fr](https://makhal.fr)**.
 
