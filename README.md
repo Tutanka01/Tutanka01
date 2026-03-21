@@ -30,6 +30,8 @@ Je m'intéresse particulièrement à l'IA en local : inférence on-device, archi
 
 **[Pomo.ninja](https://pomo.ninja/)** — Plateforme Pomodoro avec suivi de l'historique d'apprentissage.
 
+**[VisiOS](https://github.com/Tutanka01/VisiOS)** - visiOS est un agent IA local capable de piloter un environnement de bureau Linux conteneurisé via la vision
+
 **[Itqani](https://github.com/Tutanka01/ITQANI)** — Traduction en temps réel Darija marocaine → Français.
 
 **[AgenticBlog](https://github.com/Tutanka01/AgenticBlog)** - A multi-agent pipeline that reads RSS feeds, picks the most relevant article, drafts a post, debates it internally, and exports three publish-ready formats — in a single command
