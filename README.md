@@ -40,6 +40,8 @@ Je m'intéresse particulièrement à l'IA en local : inférence on-device, archi
 
 **[NOEMIS.io](https://noemis.io/)** - Evidence-First AI Workspace — Analysez vos documents PDF avec une IA qui cite ses sources.
 
+**[MoSec](https://github.com/Tutanka01/MoSec)** - A fully self-hosted, production-grade SAST pipeline combining **Semgrep**, **CodeQL**, and **tree-sitter**, orchestrated by specialized LLM agents, with zero cloud dependency.
+
 ---
 
 ### Compétences
