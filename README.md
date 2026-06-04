@@ -42,6 +42,8 @@ Je m'intéresse particulièrement à l'IA en local : inférence on-device, archi
 
 **[MoSec](https://github.com/Tutanka01/MoSec)** - A fully self-hosted, production-grade SAST pipeline combining **Semgrep**, **CodeQL**, and **tree-sitter**, orchestrated by specialized LLM agents, with zero cloud dependency.
 
+**[manim-video-voice-generator](https://github.com/Tutanka01/manim-video-voice-generator)** - Create polished explainer videos from a structured script, synchronized TTS voiceover, Manim animations, and an `ffmpeg` final assembly step.
+
 ---
 
 ### Compétences
