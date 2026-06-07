@@ -1,7 +1,7 @@
 <h1 align="center">Mohamad El Akhal</h1>
 <p align="center">
-  Master SIA (Systèmes d'Information Avancés) · Ingénieur Cloud & Systèmes en alternance<br>
-  Infrastructure · Cloud · Cybersécurité · IA agentique
+  Master's Student in AIS (Advanced Information Systems) · Cloud & Systems Engineer (Apprenticeship)<br>
+  Infrastructure · Cloud · Cybersecurity · Agentic AI
 </p>
 
 <p align="center">
@@ -12,72 +12,72 @@
 
 ---
 
-### À propos
+### About
 
-Étudiant en Master SIA, alternant en tant qu'ingénieur Cloud & Systèmes. Je travaille sur des sujets d'infrastructure moderne (on-prem & cloud), de cybersécurité, de DevOps et d'IA agentique — avec une orientation forte vers la pédagogie technique et l'open source.
+Master's student in Advanced Information Systems (AIS), currently working as a Cloud & Systems Engineer through an apprenticeship program. I work on modern infrastructure topics (on-premises & cloud), cybersecurity, DevOps, and agentic AI — with a strong focus on technical education and open source.
 
-Je m'intéresse particulièrement à l'IA en local : inférence on-device, architectures agentiques avancées (orchestration multi-agents, validation adversariale), small language models, et plus largement tout ce qui touche à rendre l'IA souveraine, portable et utilisable sans dépendance cloud.
-
----
-
-### Projets
-
-**[LabOnDemand](https://github.com/Tutanka01/LabOnDemand)** — Plateforme open-source de déploiement de laboratoires virtuels sur Kubernetes (Jupyter, VS Code, WordPress, LAMP…) sans connaissances K8s requises.
-
-**[CyberAtlas.ma](https://cyberatlas.ma/)** — Apprentissage interactif Linux & cybersécurité pour débutants marocains, avec conteneurs sécurisés et scénarios réalistes.
-
-**[Lechemin.tech](https://lechemin.tech/)** — Roadmaps interactifs et adaptatifs en français sur les métiers DevOps/Cloud, avec génération automatique de parcours personnalisés.
-
-**[Pomo.ninja](https://pomo.ninja/)** — Plateforme Pomodoro avec suivi de l'historique d'apprentissage.
-
-**[VisiOS](https://github.com/Tutanka01/VisiOS)** - visiOS est un agent IA local capable de piloter un environnement de bureau Linux conteneurisé via la vision
-
-**[Itqani](https://github.com/Tutanka01/ITQANI)** — Traduction en temps réel Darija marocaine → Français.
-
-**[AgenticBlog](https://github.com/Tutanka01/AgenticBlog)** - A multi-agent pipeline that reads RSS feeds, picks the most relevant article, drafts a post, debates it internally, and exports three publish-ready formats — in a single command
-
-**[MakhalReader](https://github.com/Tutanka01/makhalReader)** - An RSS reader that thinks before you do. Built for engineers who have more to read than time to read it.
-
-**[NOEMIS.io](https://noemis.io/)** - Evidence-First AI Workspace — Analysez vos documents PDF avec une IA qui cite ses sources.
-
-**[MoSec](https://github.com/Tutanka01/MoSec)** - A fully self-hosted, production-grade SAST pipeline combining **Semgrep**, **CodeQL**, and **tree-sitter**, orchestrated by specialized LLM agents, with zero cloud dependency.
-
-**[manim-video-voice-generator](https://github.com/Tutanka01/manim-video-voice-generator)** - Create polished explainer videos from a structured script, synchronized TTS voiceover, Manim animations, and an `ffmpeg` final assembly step.
-
-**[EVARuntime](https://github.com/Tutanka01/EVARuntime)** - EVARuntime turns one or more NVIDIA GPU servers into a controlled, auditable and energy-aware LLM inference platform. It exposes a familiar OpenAI-compatible API while keeping model execution, access control and usage logs inside your own infrastructure.
+I am particularly interested in local AI: on-device inference, advanced agentic architectures (multi-agent orchestration, adversarial validation), small language models, and more broadly everything related to making AI sovereign, portable, and usable without cloud dependencies.
 
 ---
 
-### Compétences
+### Projects
 
-| Domaine | |
+**[LabOnDemand](https://github.com/Tutanka01/LabOnDemand)** — Open-source platform for deploying virtual labs on Kubernetes (Jupyter, VS Code, WordPress, LAMP...) without requiring Kubernetes knowledge.
+
+**[CyberAtlas.ma](https://cyberatlas.ma/)** — Interactive Linux and cybersecurity learning platform for Moroccan beginners, featuring secure containers and realistic scenarios.
+
+**[Lechemin.tech](https://lechemin.tech/)** — Interactive and adaptive French-language roadmaps for DevOps and Cloud careers, with automatic personalized learning path generation.
+
+**[Pomo.ninja](https://pomo.ninja/)** — Pomodoro platform with learning history tracking.
+
+**[VisiOS](https://github.com/Tutanka01/VisiOS)** — VisiOS is a local AI agent capable of controlling a containerized Linux desktop environment through computer vision.
+
+**[Itqani](https://github.com/Tutanka01/ITQANI)** — Real-time Moroccan Darija → French translation.
+
+**[AgenticBlog](https://github.com/Tutanka01/AgenticBlog)** — A multi-agent pipeline that reads RSS feeds, picks the most relevant article, drafts a post, debates it internally, and exports three publish-ready formats — in a single command.
+
+**[MakhalReader](https://github.com/Tutanka01/makhalReader)** — An RSS reader that thinks before you do. Built for engineers who have more to read than time to read it.
+
+**[NOEMIS.io](https://noemis.io/)** — Evidence-First AI Workspace — Analyze your PDF documents with an AI that cites its sources.
+
+**[MoSec](https://github.com/Tutanka01/MoSec)** — A fully self-hosted, production-grade SAST pipeline combining **Semgrep**, **CodeQL**, and **tree-sitter**, orchestrated by specialized LLM agents, with zero cloud dependency.
+
+**[manim-video-voice-generator](https://github.com/Tutanka01/manim-video-voice-generator)** — Create polished explainer videos from a structured script, synchronized TTS voiceover, Manim animations, and an `ffmpeg` final assembly step.
+
+**[EVARuntime](https://github.com/Tutanka01/EVARuntime)** — EVARuntime turns one or more NVIDIA GPU servers into a controlled, auditable, and energy-aware LLM inference platform. It exposes a familiar OpenAI-compatible API while keeping model execution, access control, and usage logs inside your own infrastructure.
+
+---
+
+### Skills
+
+| Domain | |
 |---|---|
-| **Systèmes** | Linux (Debian/Ubuntu), Windows Server, Proxmox, Ceph |
-| **Infrastructure** | DNS, Mail (Postfix + DKIM), HAProxy, VLAN, Firewall Stormshield |
+| **Systems** | Linux (Debian/Ubuntu), Windows Server, Proxmox, Ceph |
+| **Infrastructure** | DNS, Mail (Postfix + DKIM), HAProxy, VLANs, Stormshield Firewalls |
 | **Cloud & DevOps** | Kubernetes (k3s, kubeadm), Docker, GitLab CI/CD, Terraform |
-| **Cybersécurité** | SIEM (Wazuh + Graylog), sandbox evasion, EDR bypass, OSINT |
-| **IA** | Systèmes multi-agents, inférence locale, small LMs, architectures agentiques, RAG, orchestration hiérarchique |
-| **Langages** | Python, Bash, SQL, YAML, HTML/CSS, Go (en apprentissage) |
+| **Cybersecurity** | SIEM (Wazuh + Graylog), sandbox evasion, EDR bypass, OSINT |
+| **AI** | Multi-agent systems, local inference, small LMs, agentic architectures, RAG, hierarchical orchestration |
+| **Languages** | Python, Bash, SQL, YAML, HTML/CSS, Go (currently learning) |
 
 ---
 
-### Conférences
+### Conferences
 
-- **What is Zero Trust?** — ENSA de Fès (présentiel)
-- **Workshop — Introduction to Kubernetes** — ENSA de Fès (présentiel)
-- **Docker de A à Z** — +100 spectateurs en live
-- **What is Cloud Computing?** — +100 spectateurs en live
+- **What is Zero Trust?** — ENSA Fes (in-person)
+- **Workshop — Introduction to Kubernetes** — ENSA Fes (in-person)
+- **Docker from A to Z** — 100+ live attendees
+- **What is Cloud Computing?** — 100+ live attendees
 
 ---
 
 ### Articles
 
-- [MicroVM — À la découverte](https://makhal.fr/posts/sysadmin/microvm/microvm-1/)
-- [AWS Lambda open source avec Knative](https://makhal.fr/posts/k8s/knative/knative/)
-- [Sandbox Evasion : Théorie, techniques et pratique](https://www.linkedin.com/in/mohamad-el-akhal-8b8319221/) *(LinkedIn)*
+- [MicroVM — Discovering MicroVMs](https://makhal.fr/posts/sysadmin/microvm/microvm-1/)
+- [Open-Source AWS Lambda with Knative](https://makhal.fr/posts/k8s/knative/knative/)
+- [Sandbox Evasion: Theory, Techniques, and Practice](https://www.linkedin.com/in/mohamad-el-akhal-8b8319221/) *(LinkedIn)*
 - ...
 
-Plus d'articles sur **[makhal.fr](https://makhal.fr)**.
+More articles on **[makhal.fr](https://makhal.fr)**.
 
 ---
 
