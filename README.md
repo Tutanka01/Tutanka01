@@ -50,14 +50,17 @@ I am particularly interested in local AI: on-device inference, advanced agentic 
 
 ### Skills
 
-| Domain | |
-|---|---|
-| **Systems** | Linux (Debian/Ubuntu), Windows Server, Proxmox, Ceph |
-| **Infrastructure** | DNS, Mail (Postfix + DKIM), HAProxy, VLANs, Stormshield Firewalls |
-| **Cloud & DevOps** | Kubernetes (k3s, kubeadm), Docker, GitLab CI/CD, Terraform |
-| **Cybersecurity** | SIEM (Wazuh + Graylog), sandbox evasion, EDR bypass, OSINT |
-| **AI** | Multi-agent systems, local inference, small LMs, agentic architectures, RAG, hierarchical orchestration |
-| **Languages** | Python, Bash, SQL, YAML, HTML/CSS, Go (currently learning) |
+| Domain | Technologies |
+|----------|-------------|
+| **Systems & Virtualization** | Linux (Debian, Ubuntu, Rocky), Windows Server, Proxmox VE, KVM, Cloud-Init |
+| **Cloud & Platforms** | Kubernetes (kubeadm, k3s), OpenStack, Docker, Helm, ArgoCD |
+| **Storage** | Ceph, Longhorn, NFS, S3-compatible storage (MinIO) |
+| **Infrastructure & Networking** | DNS, Postfix, DKIM, HAProxy, Traefik, VLANs, WireGuard, Stormshield |
+| **DevOps & Automation** | GitLab CI/CD, GitHub Actions, Terraform, Ansible |
+| **Observability** | Prometheus, Grafana, Loki, Graylog, OpenTelemetry |
+| **Cybersecurity** | Wazuh, SIEM Engineering, Active Directory Security, OSINT, Infrastructure Security |
+| **AI & LLM Systems** | Agentic AI, Multi-Agent Systems, Local Inference, RAG, LLM Serving, AI Infrastructure |
+| **Programming** | Python, Bash, SQL, YAML, HTML/CSS, FastAPI, Go (learning) |
 
 ---
 
