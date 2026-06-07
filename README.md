@@ -36,7 +36,7 @@ I am particularly interested in local AI: on-device inference, advanced agentic 
 
 **[AgenticBlog](https://github.com/Tutanka01/AgenticBlog)** — A multi-agent pipeline that reads RSS feeds, picks the most relevant article, drafts a post, debates it internally, and exports three publish-ready formats — in a single command.
 
-**[MakhalReader](https://github.com/Tutanka01/makhalReader)** — An RSS reader that thinks before you do. Built for engineers who have more to read than time to read it.
+**[MakhalReader](https://github.com/Tutanka01/makhalReader)** — An AI-powered RSS reader that prioritizes signal over noise for engineers and researchers.
 
 **[NOEMIS.io](https://noemis.io/)** — Evidence-First AI Workspace — Analyze your PDF documents with an AI that cites its sources.
 
