@@ -44,6 +44,8 @@ Je m'intéresse particulièrement à l'IA en local : inférence on-device, archi
 
 **[manim-video-voice-generator](https://github.com/Tutanka01/manim-video-voice-generator)** - Create polished explainer videos from a structured script, synchronized TTS voiceover, Manim animations, and an `ffmpeg` final assembly step.
 
+**[EVARuntime](https://github.com/Tutanka01/EVARuntime)** - EVARuntime turns one or more NVIDIA GPU servers into a controlled, auditable and energy-aware LLM inference platform. It exposes a familiar OpenAI-compatible API while keeping model execution, access control and usage logs inside your own infrastructure.
+
 ---
 
 ### Compétences
