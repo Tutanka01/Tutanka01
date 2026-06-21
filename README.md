@@ -54,7 +54,7 @@ Beyond engineering, I enjoy turning complex technical subjects into open-source 
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[AgenticBlog](https://github.com/Tutanka01/AgenticBlog)**                                 | Multi-agent content pipeline that monitors RSS feeds, selects relevant articles, drafts posts, runs internal reviews, and exports publish-ready formats. |
 | **[ITQANI](https://github.com/Tutanka01/ITQANI)**                                           | Real-time Moroccan Darija → French translation project.                                                                                                  |
-| **[manim-video-voice-generator](https://github.com/Tutanka01/manim-video-voice-generator)** | Automated pipeline for generating polished explainer videos from structured scripts, synchronized TTS voiceovers, Manim animations, and ffmpeg assembly. |
+| **[PromptLoom](https://github.com/Tutanka01/PromptLoom)** | Turn prompts into educational videos.|
 | **[Lechemin.tech](https://lechemin.tech/)**                                                 | Interactive French-language roadmaps for DevOps and Cloud careers, with personalized learning paths.                                                     |
 | **[Pomo.ninja](https://pomo.ninja/)**                                                       | Minimal Pomodoro platform with learning history tracking.                                                                                                |
 
